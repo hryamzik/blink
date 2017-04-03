@@ -41,7 +41,7 @@
 
 NSString const *BKiCloudSyncDeletedHosts = @"deletedHosts";
 NSString const *BKiCloudSyncDeletedKeys = @"deletedKeys";
-NSString *BKiCloudContainerIdentifier = @"iCloud.com.carloscabanero.blinkshell";
+NSString *BKiCloudContainerIdentifier = @"iCloud.net.djarvur.blinkshell";
 NSString *BKiCloudZoneName = @"DefaultZone";
 
 static NSURL *DocumentsDirectory = nil;

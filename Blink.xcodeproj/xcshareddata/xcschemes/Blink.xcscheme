@@ -38,6 +38,16 @@
                ReferencedContainer = "container:Blink.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A49887481E9980AF009256A9"
+               BuildableName = "BlinkTests.xctest"
+               BlueprintName = "BlinkTests"
+               ReferencedContainer = "container:Blink.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
